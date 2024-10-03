@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Tic-Tac-Toe-Game
 
 
@@ -58,4 +56,3 @@ This is a simple console-based game that you can enhance or modify further to ad
 
 Let me know if you need any further assistance!
 
->>>>>>> cb5034ec1230db79830170dbb8c8f497cb538aa0
